@@ -1,2 +1,2 @@
 # python
-python_parser
+Python parser
