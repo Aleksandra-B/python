@@ -3,7 +3,7 @@ import requests
 import os
 from bs4 import BeautifulSoup
 
-""" ПРОГРАММА ДЛЯ СБОРА ИНФОРМАЦИИ О СЕЛЬХОЗ ПРЕДПРИЯТИЙ С САЙТА ПО ВСЕМ ОКРУГАМ"""
+""" ПАРСИНГ ДАННЫХ С САЙТА ПО ВСЕМ ОКРУГАМ"""
 
 site_url = 'https://www.agrobase.ru/selxozpredpriyatiya/rossiya'
 districts = []
